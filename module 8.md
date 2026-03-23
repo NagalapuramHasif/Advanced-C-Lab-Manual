@@ -291,4 +291,4 @@ void square(){
 ![437943571-6adbadf8-a2c4-40bc-9972-503f6b5fc550](https://github.com/user-attachments/assets/ee623add-e7c8-42f6-abd8-cd4061604ab6)
 
 ## Result:
-Thus, the program is verified successfully
+Thus, the program is verified successfully.
