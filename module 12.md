@@ -128,7 +128,7 @@ Thus, the program to display queue elements using linked list is verified succes
 To write a C program to insert elements in queue using linked list
 
 ## Algorithm:
-1.	Allocate Memory for New Node
+1.	Allocate Memory for New Node 
 2.	Set Data and Next Pointer
 3.	Check if Queue is Empty
 4.	Set both front and rear to point to the new node p.
