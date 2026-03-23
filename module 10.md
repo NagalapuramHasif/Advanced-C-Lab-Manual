@@ -244,4 +244,4 @@ void delete()
 ![437946582-8d3d8c0c-f1d7-43ab-8e59-1c87e153360a](https://github.com/user-attachments/assets/2010b0d9-27e6-48d3-9a48-4226c19746fd)
 
 ## Result:
-Thus, the function that deletes a given element from a linked list is verified successfully.
+Thus, the function that deletes a given element from a linked list is verified successfully..
