@@ -231,4 +231,4 @@ int main()
 ![437943207-5a90ce8b-84af-4b77-a78a-eab3f9e4b944](https://github.com/user-attachments/assets/824824f3-b270-49a2-af0f-9a14a726193a)
 
 ## Result:
-Thus, the program is verified successfully
+Thus, the program is verified successfully.
