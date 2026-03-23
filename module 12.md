@@ -193,4 +193,4 @@ void peek()
 ![437948420-4153baaa-4e15-4487-8b07-c038e71afb04](https://github.com/user-attachments/assets/82ad9a9a-0817-4e52-ab3b-23de567569db)
 
 ## Result:
-Thus, the program to retrieve the "peek" (the front element) of a queue implemented using a linked list is verified successfully.
+Thus, the program to retrieve the "peek" (the front element) of a queue implemented using a linked list is verified successfully..
